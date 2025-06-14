@@ -1,0 +1,9 @@
+{
+  "order_number": "PO42",
+  "order_date": "20170101",
+  "buyer": "123456789",
+  "seller": "987654321",
+  "lines": [
+    { "line_number": 1, "item": "123456789", "quantity": 100 }
+  ]
+}
